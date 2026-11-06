@@ -20,7 +20,8 @@
   "browserRuntimeRun": 42152819283,
   "batchBoardGeneration": true,
   "generatedBoardBackupHashesValid": true,
-  "publicRuntimeVerification": "pending",
+  "publicRuntimeVerification": "passed",
   "nativeAndroidIntegration": "pending",
-  "productionAndroidRelease": false
+  "productionAndroidRelease": false,
+  "publicRuntimeRun": 42153384241
 }
