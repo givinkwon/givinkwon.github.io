@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2026-11-06T00:10:33.006209+00:00",
+  "sourceCommit": "21e623a02b71fe94bcc5b382680677d96eabc037",
+  "mainScriptSha256": "bd5ea213b65a4547fc660772b0d9aca7b12d8c49a713895ba6d7e4f60915cde1",
+  "demoMode": true,
+  "adsEnabled": false,
+  "interfaceLanguages": [
+    "ko",
+    "en",
+    "ja",
+    "zh-Hans",
+    "zh-Hant",
+    "ar"
+  ],
+  "fallbackLanguage": "en",
+  "automatedTestsPassed": 95,
+  "androidDebugBuild": "passed",
+  "browserRuntimeRun": 42134494272,
+  "productionAndroidRelease": false
+}

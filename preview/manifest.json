@@ -1,35 +1,35 @@
 {
-    "name": "사진대지보드판",
-    "short_name": "사진대지보드",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#f5f8fc",
-    "theme_color": "#1f6feb",
-    "description": "현장 사진을 보드판과 PDF로 정리하고, 음성메모와 백업으로 기록을 보관하세요.",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/Icon-maskable-192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
-        },
-        {
-            "src": "icons/Icon-maskable-512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "maskable"
-        }
-    ]
+  "name": "Site Photo Board",
+  "short_name": "Photo Board",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#1f6feb",
+  "description": "Organize project photos, photo boards, voice memos and PDF reports. Back up your records on your device.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
