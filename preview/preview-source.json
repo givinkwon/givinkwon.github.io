@@ -1,0 +1,20 @@
+{
+  "sourceCommit": "1a236b24f5866f2f5a9dcfd64a9a71335cdf181e",
+  "workflowRun": 42248469354,
+  "adsEnabled": false,
+  "demoMode": true,
+  "generatedSamplePhotos": true,
+  "menuLanguages": [
+    "en",
+    "ko",
+    "ja",
+    "zh",
+    "zh-Hant",
+    "ar",
+    "es",
+    "fr"
+  ],
+  "deploymentDate": "2026-11-07",
+  "modification": "index.html base href /preview/; other artifact files verbatim",
+  "mainDartJsSha256": "9d1e505e25b06ca7145ee1deaa625f8c57390acac0673de24580737d10e571cf"
+}
