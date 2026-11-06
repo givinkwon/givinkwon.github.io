@@ -1,6 +1,7 @@
 {
-  "updatedAt": "2026-11-06T02:53:11.708411+00:00",
-  "sourceCommit": "6ad6d098b9a8072ace86a82aacc871f51e35c4ca",
+  "updatedAt": "2026-11-06T04:24:43.241745+00:00",
+  "sourceCommit": "8d7dab230dbe78facc7b73436e2a833b1d3252ed",
+  "featureCodeSourceCommit": "6ad6d098b9a8072ace86a82aacc871f51e35c4ca",
   "mainScriptSha256": "b4210e1378b3d4a3c3aae3c11e3d3e1e1a827467a28f386b9c5263f52aa7f94f",
   "demoMode": true,
   "adsEnabled": false,
@@ -17,11 +18,17 @@
   "fallbackLanguage": "en",
   "automatedTestsPassed": 128,
   "validationRun": 42151301235,
-  "browserRuntimeRun": 42152819283,
+  "publicRuntimeRun": 42153384241,
+  "runtimeVerificationScope": "JavaScript is byte-identical to the previously verified public runtime; only branding assets changed. Current assets are verified by size, image inspection and deployed HTTP hashes.",
   "batchBoardGeneration": true,
   "generatedBoardBackupHashesValid": true,
-  "publicRuntimeVerification": "passed",
-  "nativeAndroidIntegration": "pending",
-  "productionAndroidRelease": false,
-  "publicRuntimeRun": 42153384241
+  "nativeAndroidIntegration": {
+    "api35": "passed",
+    "api35Run": 42158238803,
+    "api28": "failed in emulator camera/system",
+    "api36": "failed in emulator System UI"
+  },
+  "logoVersion": 2,
+  "logoAssetSha256": "1101d47e42fb54ab617dcce3fdd1dfef0836c5b8e0fe7ec26b327d6da0e00c82",
+  "productionAndroidRelease": false
 }
