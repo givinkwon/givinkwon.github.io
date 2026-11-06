@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T01:26:45.020439+00:00",
-  "sourceCommit": "5cf29d01c13810c28a450d6c084d4b06c87d09a7",
-  "mainScriptSha256": "4248ea71197cd61d20d330a36f1299a8bcd09f59a07dbcf8aeeb43b1042108ae",
+  "updatedAt": "2026-11-06T02:17:03.318231+00:00",
+  "sourceCommit": "4bbf15f366bf1e65f05cb6479bfe3c9e04c6de48",
+  "mainScriptSha256": "9d01eba4b48e152e90fc1fe189678805c70cd7a0eb80e2de010083835962f708",
   "demoMode": true,
   "adsEnabled": false,
   "interfaceLanguages": [
@@ -11,11 +11,14 @@
     "zh-Hans",
     "zh-Hant",
     "ar",
-    "es"
+    "es",
+    "fr"
   ],
   "fallbackLanguage": "en",
-  "automatedTestsPassed": 103,
-  "browserRuntimeRun": 42143631448,
+  "automatedTestsPassed": 117,
+  "validationRun": 42148327375,
+  "browserRuntimeRun": 42149055079,
+  "publicRuntimeVerification": "pending",
   "nativeAndroidIntegration": "pending",
   "productionAndroidRelease": false
 }
